@@ -1,5 +1,5 @@
 "Due Date"	"Assignment"	"Last Page"	"Pages"	"% Complete"	"Scheduling Notes"
-""	=hyperlink("https://github.com/dmbrownlee/demo/blob/master/rhcsa/labfiles/README.md","Study Group Orientation")	""
+""	=hyperlink("https://github.com/dmbrownlee/demo/blob/master/rhcsa/labfiles/README.md","Study Group Orientation")	"
 ""	=hyperlink("https://github.com/dmbrownlee/demo/blob/master/rhcsa/labfiles/chapter1/README.md","Chapter 1: Practice manually installing the OS")	"27"	"27"	"  5.00"	""
 ""	=hyperlink("https://github.com/dmbrownlee/demo/blob/master/rhcsa/labfiles/chapter2/README.md","Chapter 2: Using Essential Tools")	"51"	"24"	"  9.44"	""
 ""	=hyperlink("https://github.com/dmbrownlee/demo/blob/master/rhcsa/labfiles/chapter3/README.md","Chapter 3: Essential File Management Tools")	"79"	"28"	" 14.63"	""
